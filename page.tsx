@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-import { useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+  import { useState } from "react";
+  import { Card, CardContent } from "@/components/ui/card";
+  import { Button } from "@/components/ui/button";
 
-export default function MatchLead() {
+  export default function MatchLead() {
   // Example dummy profiles
   const profiles = [
     {
